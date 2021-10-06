@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 "A good programmer is someone who always looks both ways before crosing a one-way street. -Doug Linder"
-=======
-"A good programmer is someone who always looks both ways before crossing a one-way street."
->>>>>>> e8b25c7aa7db5914e39dbdeae5c7f672bcdc1f59
